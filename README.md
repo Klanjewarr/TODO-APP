@@ -18,10 +18,10 @@ Storage: Browser Local Storage
 
 🚀 How to Run
 Clone the repository
-git clone https://github.com/yourusername/simple-todo-app.git
-cd simple-todo-app
+git clone https://github.com/yourusername/todo-app.git
+cd todo-app
 
-Install dependencies (if using React)
+Install dependencies 
 npm install
 
 Start the app
